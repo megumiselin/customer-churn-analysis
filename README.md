@@ -37,7 +37,7 @@ The dataset (`Telco_customer_churn.xlsx`) contains:
 ---
 
 ## Key Findings  
-- **Churn Rate:** Around 26% of customers leave → a significant business concern.(this means approximately **1 out of every 4 customers is lost**).
+- **Churn Rate:** Around 26% of customers leave → a significant business concern. (This means approximately **1 out of every 4 customers is lost**).
 - **Contract Type:** Month-to-month contracts have the highest churn; long-term contracts reduce churn.  
 - **Payment Method:** Automatic payment methods are linked to lower churn.  
 - **Tenure:** New customers (first 6 months) are most likely to churn; loyal customers stay longer.  
